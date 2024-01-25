@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "322966870079",
+    "project_id": "electrician-a00b8",
+    "storage_bucket": "electrician-a00b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322966870079:android:6f1b9012708a8f8fa2c08a",
+        "android_client_info": {
+          "package_name": "com.example.electrician"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFVwG7zmRoa2huV7Z_bwuUgI-xBuQvkxE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
